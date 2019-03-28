@@ -1,0 +1,3 @@
+[submodule "mrs"]
+	path = mrs
+	url = https://github.com/ngeraci/mrs.git
